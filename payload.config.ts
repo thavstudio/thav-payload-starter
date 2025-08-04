@@ -1,4 +1,4 @@
-import { buildConfig } from 'payload/config';
+import { buildConfig } from 'payload';
 import ExampleCollection from './src/collections/ExampleCollection';
 import ExampleGlobal from './src/globals/ExampleGlobal';
 
