@@ -8,11 +8,11 @@
     "start": "payload start"
   },
   "dependencies": {
-    "payload": "^2.0.0",
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "payload": "^3.49.1"
   },
   "devDependencies": {
-    "typescript": "^5.0.0",
-    "@types/node": "^20.0.0"
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
   }
 }
