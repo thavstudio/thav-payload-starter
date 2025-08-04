@@ -1,16 +1,12 @@
 import { CollectionConfig } from 'payload/types';
 
 const ExampleCollection: CollectionConfig = {
-  slug: 'examples',
+  slug: 'example-collection',
   fields: [
     {
       name: 'title',
       type: 'text',
       required: true,
-    },
-    {
-      name: 'description',
-      type: 'textarea',
     },
   ],
 };
