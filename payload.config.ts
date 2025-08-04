@@ -1,8 +1,8 @@
 import { buildConfig } from 'payload';
 
-import ExampleCollection from './src/collections/ExampleCollection';
+import ExampleCollection from './src/collections/ExampleCollection.ts';
 import Users from './src/collections/Users';
-import ExampleGlobal from './src/globals/ExampleGlobal';
+import ExampleGlobal from './src/globals/ExampleGlobal.ts';
 
 export default buildConfig({
   collections: [ExampleCollection, Users],
